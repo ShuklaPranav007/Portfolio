@@ -2,6 +2,7 @@ import React from "react";
 import Social from "./social";
 import "./home.css"
 import Data from "./Data";
+import ScrollDown from "./ScrollDown";
 
 const Home = () =>{
     return(
@@ -13,6 +14,7 @@ const Home = () =>{
                     <div className="home__img"></div>
                     <Data/>
                 </div>
+                <ScrollDown/>
             </div>
            </section>
         </div>
