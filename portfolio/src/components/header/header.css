@@ -1,3 +1,9 @@
+header{
+  height: 5%;
+  padding:2rem 0;
+  background-color: aliceblue;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
 .header {
   width: 100%;
   position: fixed;
