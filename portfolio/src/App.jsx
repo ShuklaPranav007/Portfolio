@@ -4,6 +4,7 @@ import Header from './components/header/header.jsx'
 import Home from './components/home/home.jsx'
 import About from './components/home/about.jsx'
 import Skills from './components/skills/skills.jsx'
+import Services from './components/services/services.jsx'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Home/>
         <About/>
         <Skills/>
+        <Services/>
       </div>
     </>
   )
