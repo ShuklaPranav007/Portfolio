@@ -5,6 +5,7 @@ import Home from './components/home/home.jsx'
 import About from './components/home/about.jsx'
 import Skills from './components/skills/skills.jsx'
 import Services from './components/services/services.jsx'
+import Qualification from './components/Qualification/qualification.jsx'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <About/>
         <Skills/>
         <Services/>
+        <Qualification/>
       </div>
     </>
   )
