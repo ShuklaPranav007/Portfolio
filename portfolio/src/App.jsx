@@ -8,6 +8,7 @@ import Services from './components/services/services.jsx'
 import Qualification from './components/Qualification/qualification.jsx'
 import Test from './components/testimonial/test.jsx'
 import Contact from './components/Contact/contact.jsx'
+import Footer from './components/Footer/footer.jsx'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Qualification/>
         <Test/>
         <Contact/>
+        <Footer/>
       </div>
     </>
   )
