@@ -20,6 +20,7 @@ function App() {
         <Services/>
         <Qualification/>
         <Test/>
+        <Contact/>
       </div>
     </>
   )
