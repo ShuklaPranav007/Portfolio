@@ -9,12 +9,13 @@ import Qualification from './components/Qualification/qualification.jsx'
 import Test from './components/testimonial/test.jsx'
 import Contact from './components/Contact/contact.jsx'
 import Footer from './components/Footer/footer.jsx'
+import ScrollUp from './components/ScrollUp/ScrollUp.jsx'
 
 function App() {
   return (
     <>
       <Header/>
-      <div className="main">
+      <main className="main">
         <Home/>
         <About/>
         <Skills/>
@@ -22,8 +23,9 @@ function App() {
         <Qualification/>
         <Test/>
         <Contact/>
+      </main>
         <Footer/>
-      </div>
+        <ScrollUp/>
     </>
   )
 }
