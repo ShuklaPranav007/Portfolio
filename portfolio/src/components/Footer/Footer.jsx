@@ -7,9 +7,8 @@ const Footer = ()=>{
             <div className="footer__container container">
                 <h1 className="footer__title">Pranav Shukla &hearts;</h1>
                 <ul className="footer__list">
-                    <li className=" footer__link" id="#about">About</li>
-                    <li className=" footer__link" id="#portfolio">Project</li>
-                    <li className=" footer__link" id="#test">Testimonial</li>
+                    
+                    
                 </ul>
 
                 <div className="footer__social">
