@@ -51,8 +51,8 @@ const Qualification = () => {
           >
             <div className="qual__data">
               <div>
-                <h3 className="qual__title">Web Design</h3>
-                <span className="qual__subtitle">Institute</span>
+                <h3 className="qual__title"><b>B.Tech</b> CSE(AIML)</h3>
+                <span className="qual__subtitle">School Of Information Technology, RGPV Bhopal </span>
                 <div className="qual__calendar">
                   <i className="uil uil-calendar-alt"></i> 2022-present
                 </div>
@@ -70,20 +70,20 @@ const Qualification = () => {
                 <span className="qual__line"></span>
               </div>
               <div>
-                <h3 className="qual__title">Art</h3>
-                <span className="qual__subtitle">Institute</span>
+                <h3 className="qual__title">Higher Education</h3>
+                <span className="qual__subtitle">Noble Children Academy, Jabalpur</span>
                 <div className="qual__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2022-present
+                  <i className="uil uil-calendar-alt"></i> 2021
                 </div>
               </div>
             </div>
 
             <div className="qual__data">
               <div>
-                <h3 className="qual__title">Web Development</h3>
-                <span className="qual__subtitle">Institute</span>
+                <h3 className="qual__title">Secondary Education</h3>
+                <span className="qual__subtitle">St. Aloysius Sr. Sec School, Jabalpur</span>
                 <div className="qual__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2022-present
+                  <i className="uil uil-calendar-alt"></i> 2019
                 </div>
               </div>
               <div>
@@ -92,24 +92,11 @@ const Qualification = () => {
               </div>
             </div>
 
-            <div className="qual__data">
-              <div></div>
-              <div>
-                <span className="qual__rounder"></span>
-                <span className="qual__line"></span>
-              </div>
-              <div>
-                <h3 className="qual__title">UI/UX</h3>
-                <span className="qual__subtitle">Institute</span>
-                <div className="qual__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2022-present
-                </div>
-              </div>
-            </div>
+            
           </div>
 
           {/* Experience */}
-          <div
+          {/* <div
             className={
               toggleState === 2
                 ? "qual__content qual__content-active"
@@ -158,7 +145,7 @@ const Qualification = () => {
                 <span className="qual__line"></span>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

@@ -9,7 +9,7 @@ import Qualification from "./components/Qualification/Qualification.jsx";
 import Test from "./components/testimonial/test.jsx";
 
 import Contact from "./components/Contact/contact.jsx";
-import Footer from "./components/Footer/footer.jsx";
+import Footer from "./components/Footer/Footer.jsx";
 import ScrollUp from "./components/ScrollUp/ScrollUp.jsx";
 import Certificate from "./components/certificates/certificate.jsx";
 
