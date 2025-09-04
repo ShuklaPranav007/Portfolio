@@ -11,11 +11,11 @@ const Social = () => {
         <i className="uil uil-instagram"></i>
       </a>
       <a
-        href="www.linkedin.com/in/pranav-shukla-955340274"
+        href="https://www.linkedin.com/in/pranav-shukla-955340274/"
         className="home__social-icon"
         target="_blank"
       >
-        <i className="uil uil-github-alt"></i>
+        <i className="uil uil-linkedin-alt"></i>
       </a>
       <a
         href="https://github.com/ShuklaPranav007"

@@ -14,7 +14,7 @@ const About = () => {
           <img src={AboutImg} alt="" className="about__img" />
           <div className="about__data">
                 <Info/>
-                <p className="about__description">Frontend developer, I create web pages with UI / UX user interface, I have years of experience and many clients are happy with the projects carried out.</p>
+                <p className="about__description">Fullstack (MERN) Developer, I create web pages with UI / UX user interface, I have experience and many clients are happy with the projects carried out.</p>
 
                 <a download="" href={CV} className="button button--flex ">Download CV
                     <img src="../../Assets/assets/files.svg" alt="" />

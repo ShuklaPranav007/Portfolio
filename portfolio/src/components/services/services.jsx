@@ -37,6 +37,7 @@ const Services = () => {
                 ? "services__modal active-modal"
                 : "services__modal"
             }
+            onMouseLeave={() => toggleTab(0)}  
           >
             <div className="services__modal-content">
               <i
@@ -48,10 +49,7 @@ const Services = () => {
 
               <h3 className="services__modal-title">Designer</h3>
               <p className="services__modal-description">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus aut ut necessitatibus magnam cum ea amet nisi
-                tenetur minus optio esse minima aperiam, aliquam iusto. Veniam
-                at tenetur cumque temporibus.
+                xyz
               </p>
 
               <ul className="services__modal-service grid">
@@ -116,6 +114,7 @@ const Services = () => {
                 ? "services__modal active-modal"
                 : "services__modal"
             }
+            onMouseLeave={() => toggleTab(0)} 
           >
             <div className="services__modal-content">
               <i
@@ -127,10 +126,7 @@ const Services = () => {
 
               <h3 className="services__modal-title">Ui Designer</h3>
               <p className="services__modal-description">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus aut ut necessitatibus magnam cum ea amet nisi
-                tenetur minus optio esse minima aperiam, aliquam iusto. Veniam
-                at tenetur cumque temporibus.
+                ABC
               </p>
 
               <ul className="services__modal-service grid">
@@ -195,6 +191,7 @@ const Services = () => {
                 ? "services__modal active-modal"
                 : "services__modal"
             }
+            onMouseLeave={() => toggleTab(0)} 
           >
             <div className="services__modal-content">
               <i
@@ -206,10 +203,7 @@ const Services = () => {
 
               <h3 className="services__modal-title">Visual Designer</h3>
               <p className="services__modal-description">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus aut ut necessitatibus magnam cum ea amet nisi
-                tenetur minus optio esse minima aperiam, aliquam iusto. Veniam
-                at tenetur cumque temporibus.
+                PQR
               </p>
 
               <ul className="services__modal-service grid">
