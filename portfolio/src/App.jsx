@@ -7,7 +7,7 @@ import Skills from "./components/skills/skills.jsx";
 import Services from "./components/services/services.jsx";
 import Qualification from "./components/Qualification/Qualification.jsx";
 import Test from "./components/testimonial/test.jsx";
-
+import Projects from "./components/Projects/projects.jsx";
 import Contact from "./components/Contact/contact.jsx";
 import Footer from "./components/Footer/Footer.jsx";
 import ScrollUp from "./components/ScrollUp/ScrollUp.jsx";
@@ -21,11 +21,9 @@ function App() {
         <Home />
         <About />
         <Skills />
-        <Services />
+        <Projects/>
         <Qualification />
-        {/* <Test /> */}
         <Certificate/>
-
         <Contact />
       </main>
       <Footer />
