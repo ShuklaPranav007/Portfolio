@@ -1,17 +1,17 @@
 import React from "react";
 import "./App.css";
-import Header from "./components/header/header.jsx";
-import Home from "./components/home/home.jsx";
-import About from "./components/home/about.jsx";
-import Skills from "./components/skills/skills.jsx";
+import Header from "./components/header/Header.jsx";
+import Home from "./components/home/Home.jsx";
+import About from "./components/home/About.jsx";
+import Skills from "./components/skills/Skills.jsx";
 // import Services from "./components/services/services.jsx";
 import Qualification from "./components/Qualification/Qualification.jsx";
 // import Test from "./components/testimonial/test.jsx";
-import Projects from "./components/Projects/projects.jsx";
-import Contact from "./components/Contact/contact.jsx";
+import Projects from "./components/Projects/Projects.jsx";
+import Contact from "./components/Contact/Contact.jsx";
 import Footer from "./components/Footer/Footer.jsx";
 import ScrollUp from "./components/ScrollUp/ScrollUp.jsx";
-import Certificate from "./components/certificates/certificate.jsx";
+import Certificate from "./components/certificates/Certificate.jsx";
 
 function App() {
   return (
