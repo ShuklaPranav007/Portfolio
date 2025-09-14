@@ -3,7 +3,7 @@ import "./App.css";
 
 import Header from "./components/header/Header.jsx";
 import Home from "./components/home/Home.jsx";
-import About from "./components/about/About.jsx";
+import About from "./components/home/About.jsx";
 import Skills from "./components/skills/Skills.jsx";
 import Qualification from "./components/qualification/Qualification.jsx";
 import Projects from "./components/projects/Projects.jsx";
