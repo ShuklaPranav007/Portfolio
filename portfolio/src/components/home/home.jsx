@@ -1,6 +1,6 @@
 import React from "react";
-import Social from "./Social";
-import "./home.css";
+import Social from "./Social"
+import "./Home.css";
 import Data from "./Data";
 
 
@@ -10,7 +10,7 @@ const Home = () => {
       <div className="home__container container grid">
         <div className="home__content grid">
           {/* Social icons */}
-          <Social />
+          <Social/>
 
           {/* Profile image */}
           <div className="home__img"></div>

@@ -1,5 +1,5 @@
 import React from "react";
-import "./certificate.css";
+import "./Certificate.css";
 import {Data} from "./Data.jsx"
 
 import { Swiper, SwiperSlide } from 'swiper/react';
